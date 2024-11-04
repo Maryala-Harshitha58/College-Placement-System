@@ -15,7 +15,6 @@ The **College Placement System** is a web application designed to streamline and
 - **Frontend**: HTML, CSS, JavaScript.
 - **Backend**: Node.js,PHP
 - **Database**:  MySQL
-- **Authentication**: JWT (JSON Web Tokens)
 - **Other**: Git, GitHub for version control
 
 
