@@ -23,8 +23,16 @@ The **College Placement System** is a web application designed to streamline and
 2. **Recruiters**: Create a recruiter profile, post job openings, and view applications.
 3. **Admins**: Manage users, review placement statistics, and configure system settings.
 
-###snapshots
-![Uploading Screenshot 2024-05-10 103853.png…]()
+Snapshots
+---------
+![Screenshot 2024-05-05 114010](https://github.com/user-attachments/assets/aedf2838-ba04-4af3-a5f9-fa0366732069)
+
+![Screenshot 2024-05-17 190920](https://github.com/user-attachments/assets/da26ee9b-55ab-4aa9-9a36-abc0a6135489)
+
+![Screenshot 2024-05-10 080359](https://github.com/user-attachments/assets/84a489f5-acbd-49d6-95d9-1d1af39b4939)
+
+
+![Screenshot 2024-05-10 103853](https://github.com/user-attachments/assets/0da9c809-3972-485e-8bf6-7309721f6f17)
 
 
 ### License
