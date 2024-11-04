@@ -1,0 +1,163 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background: url('career-opportunities-at-job-fair-we-re-hiring-and-recruitment-ads-human-resources-open-vacancy-job-seekers-come-applying-for-jobs-illustration-for-business-card-banner-brochure-flyer-free-vector.jpg') no-repeat;
+	background-size:cover;
+	background-position: center;
+	padding: 0 10px;
+}
+.container
+{
+	border: 2px solid lightskyblue;
+        background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%);
+	max-width: 500px;
+	width: 100%;
+	margin: 20px auto;
+	padding: 30px;
+	box-shadow:5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+.container .title
+{
+	font-size:24px;
+	font-weight:700;
+	margin-bottom: 25px;
+	color:pink;
+	text-transform:uppercase;
+	text-align:center;
+}
+.container .form
+{
+	width: 100%;
+}
+.container .form .input_field
+{
+	margin-bottom: 15px;	
+	display:flex;
+	align-items: center;
+        color:whitesmoke;
+}
+.container .form .input_field label
+{
+	 width: 200px;
+	 margin-right: 10px;
+	 font-size: 20px;
+}
+.container .form .input_field .input,
+.container .form .input_field textarea{
+	width: 100%;
+	outline: none;
+	border: 1px solid ;
+	font-size: 15px;
+	padding: 8px 10px;
+	border-radius: 3px;
+	transition: all 0.5s ease;
+}
+.container .form .input_field .textarea
+{
+	resize:none;
+	height: 70px;
+}
+.container .form .input_field .input:focus,
+.container .form .input_field .textarea:focus
+{
+	border:1px solid purple;
+}
+.container .form .input_field p{
+	font-size: 20px;
+}
+.container .form .input_field  .check
+{
+	width: 15px;
+	height: 15px;
+	position: relative;
+	display:block;
+	cursor:pointer;	
+}
+.container .form .input_field  .check input[type="checkbox"]
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+
+}
+.container .form .input_field  .check .checkmark
+{
+	width: 15px;
+	height: 15px;
+	border: 1px solid ;
+	display: block;
+	position: relative;
+	
+}
+.container .form .input_field  .check .checkmark:before
+{
+	content:"";
+	position:absolute;
+	top:1px;
+	left: 2px;
+	width:5px;
+	height:2px;
+	border: 2px solid;
+	border-color:transparent transparent white white;
+	transform: rotate(-45deg);
+}
+.container .form .input_field  .check input[type="checkbox"]:checked~ .checkmark{
+	background:black;
+}
+.container .form .input_field  .check input[type="checkbox"]:checked~ .checkmark:before{
+	display:block;
+}
+.container .form .input_field .btn
+{
+	width:100%;
+	padding:8px 10px;
+font-size: 15px;
+	border:0;
+	background:white;
+    color: black;
+    cursor: pointer;
+    border-radius: 3px;	
+	outline :none;
+}
+.container .form .input_field:last-child
+{
+	margin-bottom:0;
+}
+.container .form .input_field .btn:hover
+{
+	background:orange;
+}
+@media (max-width: 420px)
+{
+	.container .form .input_field
+	{
+		flex-direction: column;
+		align-items:flex-start;
+	}
+	.container .form .input_field label{
+		margin-bottom: 5px;
+	}
+	.container .form .input_field.terms
+	{
+		flex-direction: row;
+	}
+}
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22 Apr, 2024, 1:03:32 PM
+    Author     : marya
+*/
+

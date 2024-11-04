@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" type="text/css" href="company.css">
+
+<title>COMPANY REGISTRATION</title>
+</head>
+<body>
+<div class="container">
+<div class="title">
+ COMPANY REGISTRATION FORM
+ </div>
+ <div class="form">
+ <div class="input_field">
+  <label>Company Name</label>
+  <input type="text" class="input">
+ </div>
+ <div class="input_field">
+  <label>Email </label>
+  <input type="email" class="input">
+ </div>
+ <div class="input_field">
+  <label>Password</label>
+  <input type="password" class="input">
+ </div>
+ <div class="input_field">
+  <label>Phone Number</label>
+  <input type="number" class="input">
+ </div>
+ <div class="input_field">
+   <label>City</label>
+   <input type="text" class="input">
+ </div>
+ <div class="input_field">
+   <label>State</label>
+   <input type="text" class="input">
+ </div>
+ <div class="input_field">
+   <label>Country</label>
+   <input type="text" class="input">
+ </div>
+ <div class="input_field">
+ <label>Company Description</label>
+ <textarea></textarea>
+ </div>
+ <div class="input_field terms">
+    <label class="check">
+    <input type="checkbox">
+    <span class="checkmark"></span>
+    </label>
+ <p>Agree to terms and conditions</p>
+ </div>
+
+ <button type="submit" class="btn"> Register</button>
+ </div>
+ </div>
+ </body>
+ </html>

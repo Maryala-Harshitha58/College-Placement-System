@@ -1,0 +1,6 @@
+Project Files_CPS:-
+Home Page=INDEX.html--style.css
+About page=About.html--Abc.css
+Contact Page=Contact.html--con.css
+Company Registeration=form.php--Connection.css--display.php--update_design.php
+Registeration form=reg.html--Frnd.css--connection.php
