@@ -25,11 +25,21 @@ The **College Placement System** is a web application designed to streamline and
 
 Snapshots
 ---------
+
+Home Page
+---------
 ![Screenshot 2024-05-05 114010](https://github.com/user-attachments/assets/aedf2838-ba04-4af3-a5f9-fa0366732069)
+
+Student Dashboard
+-----------
 ![Screenshot 2024-05-10 080235](https://github.com/user-attachments/assets/1039dc75-c4cb-4aa8-9532-b1b0cdcc838d)
 
+Jobs Dashboard
+------------
 ![Screenshot 2024-05-10 080359](https://github.com/user-attachments/assets/1ac12fe8-9525-41aa-88f3-cae8ecf5974a)
 
+Companies Dashboard
+-----------
 ![Screenshot 2024-05-10 103853](https://github.com/user-attachments/assets/0da9c809-3972-485e-8bf6-7309721f6f17)
 
 
